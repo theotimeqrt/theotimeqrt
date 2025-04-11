@@ -3,9 +3,7 @@
 ## 🚀 GitHub Stats
 ![Theotime's GitHub stats](https://github-readme-stats.vercel.app/api?username=theotimeqrt&show_icons=true&theme=radical&hide_border=true)
 
-Contact me :
-
-[LinkedIn](https://www.linkedin.com/in/th%C3%A9otime-quiret-430062291/)
+Contact me [LinkedIn](https://www.linkedin.com/in/th%C3%A9otime-quiret-430062291/)
 
 ## 🌑 Snake Animation
 
