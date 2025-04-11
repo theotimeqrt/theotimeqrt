@@ -1,7 +1,7 @@
 ## Hi there, I'm Théotime QUIRET 👋
 
 ## 🚀 GitHub Stats
-![Theotime's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLADJICI&show_icons=true&theme=radical&hide_border=true)
+![Theotime's GitHub stats](https://github-readme-stats.vercel.app/api?username=theotimeqrt&show_icons=true&theme=radical&hide_border=true)
 
 Contact me :
 
