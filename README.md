@@ -2,6 +2,7 @@
 
 Contact me -> 
 [LinkedIn account](https://www.linkedin.com/in/ayoub-ladjici-560528238/)
+
 [email](ayoub.ladjici@outlook.com)
 
 ## 🌑 Snake Animation
