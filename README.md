@@ -1,6 +1,6 @@
 ## Hi there, I'm Théotime QUIRET 👋
 
-Contact me -> 
+Contact me :
 
 [LinkedIn account](https://www.linkedin.com/in/ayoub-ladjici-560528238/)
 
