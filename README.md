@@ -5,9 +5,9 @@
 
 Contact me :
 
-[LinkedIn](https://www.linkedin.com/in/ayoub-ladjici-560528238/)
+[LinkedIn](https://www.linkedin.com/in/th%C3%A9otime-quiret-430062291/)
 
-[email](ayoub.ladjici@outlook.com)
+[email](theotimequiret@gmail.com)
 
 ## 🌑 Snake Animation
 
